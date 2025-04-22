@@ -108,11 +108,6 @@ REDDIT_USER_AGENT=RedditTrendAnalyzer/1.0
 
 ---
 
-## 🧾 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgements
 
